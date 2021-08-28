@@ -23,10 +23,10 @@
  */
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "afe8b557d49346f48edc5a0dfebb46b3";
+const infuraKey = "infura key";
 
 //const fs = require('fs');
-const mnemonic = "extend just outdoor ridge pony number social sing normal language float essence";
+const mnemonic = "meta mask creds";
 
 module.exports = {
   /**
